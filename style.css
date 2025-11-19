@@ -30,3 +30,17 @@ body {
   top: -265%;
   height: auto;
 }
+
+#volume-toggle {
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  padding: 0;
+}
+
+#volume-toggle img {
+  width: clamp(48px, 5vw, 72px);
+}

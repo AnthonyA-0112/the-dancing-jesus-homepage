@@ -10,13 +10,19 @@
 </head>
 
 <body>
-    <div class="container">
-      <img src="Resources/Spotlight.svg" class="spotlight" alt="Spotlight">
-      <img src="Resources/Jesus.gif" class="jesus" alt="Dancing Jesus">
-    </div>
+  <div class="container">
+    <img src="Resources/Spotlight.svg" class="spotlight" alt="Spotlight">
+    <img src="Resources/Jesus.gif" class="jesus" alt="Dancing Jesus">
+  </div>
 
-  <audio autoplay loop>
+  <button id="volume-toggle" aria-label="Toggle audio">
+    <img src="Resources/Mute.svg"/>
+  </button>
+
+  <audio loop>
     <source src="Resources/Dancing-Jesus-Soundtrack.mp3" type="audio/mpeg">
   </audio>
+
+  <script src="script.js"></script>
 </body>
 </html>
