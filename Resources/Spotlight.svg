@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg2" viewBox="0 0 500 1850" xmlns="http://www.w3.org/2000/svg">
+
+  <path style="fill: rgb(119, 200, 174); stroke: rgba(0, 0, 0, 0);"
+        d="M 52.412 1766.658
+           L 450 -506.31
+           L 414.054 -511.17
+           L 430.901 1766.658
+           L 52.412 1766.658 Z"/>
+
+  <ellipse style="stroke: rgba(0, 0, 0, 0); fill: rgb(183, 200, 204);"
+           cx="241.74" cy="1767.42" rx="189.313" ry="30"/>
+</svg>
