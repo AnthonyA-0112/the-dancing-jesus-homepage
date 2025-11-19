@@ -1,5 +1,5 @@
 # The Dancing Jesus Homepage
-A recreation of *The Dancing Jesus Homepage* from **The Simpsons**.
+A recreation of *The Dancing Jesus Homepage* from **The Simpsons** (Season 12, Episode 6, *"The Computer Wore Menace Shoes"*).
 
 ![Dancing Jesus](Resources/Jesus.gif "Dancing Jesus")
 
@@ -8,14 +8,7 @@ A recreation of *The Dancing Jesus Homepage* from **The Simpsons**.
 2. Open 'index.html' in your browser.
 
 ### Audio Autoplay Issue
-Modern browsers do not allow autoplaying audio tags without interacting with the page first.
-Resolving this issue locally involves manually giving permission to the webpage.
-
-1. Click the icon to the left of the address bar.
-2. Open site settings or permissions from the menu.
-3. Find sound or media autoplay permissions and set them to Allow.
-    - Some browsers may require you to adjust permissions for all sites instead of just this one. You may need to open another permissions page in your browser settings.
-4. Refresh the page to apply the changes.
+Modern browsers do not allow autoplaying audio tags without interacting with the page first. This branch provides a version of the webpage that consists of a modern volume toggle feature, allowing the user to interact and enable audio playback. While it is no longer an exact recreation of the original page from the episode, it provides an alternative for users who prefer not to adjust their browser settings.
 
 ## License
 This project is licensed under the [MIT LICENSE](LICENSE). See the LICENSE file for details.
@@ -23,4 +16,4 @@ This project is licensed under the [MIT LICENSE](LICENSE). See the LICENSE file 
 ## Credits
 Created by Anthony Alexis.
 
-This project is a non-commercial fan remake of *The Dancing Jesus* page from **The Simpsons**.
+This project is a non-commercial fan remake of *The Dancing Jesus* page from **The Simpsons**. All characters and references remain the property of their respective copyright holders.
