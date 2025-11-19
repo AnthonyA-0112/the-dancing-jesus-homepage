@@ -23,4 +23,4 @@ This project is licensed under the [MIT LICENSE](LICENSE). See the LICENSE file 
 ## Credits
 Created by Anthony Alexis.
 
-This project is a non-commercial fan remake of *The Dancing Jesus* page from **The Simpsons**.
+This project is a non-commercial fan remake of *The Dancing Jesus Homepage* from **The Simpsons**.
